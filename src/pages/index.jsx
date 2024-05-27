@@ -1,5 +1,4 @@
 import { render } from '@czechitas/render';
-import { BookingSummary } from '../components/BookingSummary/BookingSummary';
 import '../global.css';
 import './index.css';
 import { Header } from '../components/Header/header';
